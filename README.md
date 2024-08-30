@@ -2,7 +2,7 @@
   
 
 - 💞️ I’m a developer(fullstack and blockchain)
-- 📫 How to reach me on twitter @ThewebsterX
+- 📫 Reach me on twitter @ThewebsterX
 - ⚡ Fun fact: ... Most devs are Denegrates
 
 <!---
